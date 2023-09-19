@@ -1,1 +1,1 @@
-# 2023-1-OC-AI-Study
+# 2023-2-OC-BE-Study
